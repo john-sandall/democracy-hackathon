@@ -53,6 +53,17 @@ You don't have to use these, but they're a good start.
 
 
 ## Schedule
-| 13:30 - 13:50 | Introduction to challenges & datasets |
-| 13:50 - 15:25 | Hacking time! |
-| 15:25 - 15:45 | Presentations & wrapup |
+- **13:30** – Introduction to challenges & datasets.
+- **13:50** – Hacking time!
+- **15:25** – Presentations & wrapup.
+- **15:45** – Event ends.
+
+
+## Code of Conduct
+All attendees are expected to abide by the NumFOCUS Code of Conduct. Please take this opportunity to review it.
+
+Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes and language are not appropriate for PyData. All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate. PyData is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, gender identity, and expression, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Thank you for helping make this a welcoming, friendly community for all.
+
+The full Code of Conduct and additional information can be found [here](https://pydata.org/code-of-conduct/).
+
+If you wish to submit a Code of Conduct report [click here](https://numfocus.typeform.com/to/ynjGdT/).
