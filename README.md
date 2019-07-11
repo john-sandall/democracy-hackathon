@@ -1,5 +1,6 @@
 <div>
-    <img src="docs/newspeak_logo.png" alt="Newspeak House" width="200px" style="float: left;" />
+    <img src="docs/newspeak_logo.png" alt="Newspeak House" width="250px" style="float: left;" />
+    &nbsp;&nbsp;
     <img src="https://pydata.org/london2018/static/images/logo.288981a8dfa8.png" alt="PyData London 2019" width="150px"  style="float: left;">
 </div>
 
