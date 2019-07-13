@@ -42,9 +42,10 @@ You don't have to use these, but they're a good start.
 
 ### Turnout modelling competition
 - **[SixFifty Datasets](https://github.com/six50/pipeline):** Model-ready datasets for 2010/2015 elections, EU referendum, [opinion polling at national/regional levels](https://github.com/six50/pipeline/tree/master/data/polls), all available in CSV, JSON and Feather.
+- **Opinion polling data:** In 2017 SixFifty created a manually curated set of poll results can be downloaded in [JSON](https://s3-eu-west-1.amazonaws.com/sixfifty/polls.json), [CSV](https://s3-eu-west-1.amazonaws.com/sixfifty/polls.csv) or [Feather](https://s3-eu-west-1.amazonaws.com/sixfifty/polls.feather). See [data/polls/](https://github.com/six50/hackathon/tree/master/data/polls/) for more information including a data dictionary.
 
 ### Voter engagement
-- To understand what's been tried before, take a look at the tools and projects that were developed for the 2017 General Election in the **GE2017 Tech Initiatives Handbook:** http://bit.ly/GE2017TechHandbook – A collection of resources, datasets, volunteers, existing projects, proposed projects. Initiated by Newspeak House.
+- To understand what's been tried before, take a look at the tools and projects that were developed for the 2017 General Election. In the **[GE2017 Tech Initiatives Handbook](http://bit.ly/GE2017TechHandbook)** you'll find a collection of resources, datasets, volunteers, existing projects, proposed projects.
 
 ### Open data for democracy
 - **[Maven](https://pypi.org/project/maven/)**
