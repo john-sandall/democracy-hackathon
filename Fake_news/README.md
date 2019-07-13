@@ -2,12 +2,14 @@
 <img src="https://pydata.org/london2018/static/images/logo.288981a8dfa8.png" alt="PyData London 2019" width="150px"  style="float: left;">
 
 
-# PyData 2019 Democracy Hackathon: Tweet Challenge
+# PyData 2019 Democracy Hackathon: Fake news, facts and sentiment (Twitter)
 
 
 ## Description 
 - - -
 With over 500 members of parliament on Twitter it's a valuable source of direct data from the countries representatives. The goal of this challenge is to harness this information, developing new insights using data available through Twitter's API. 
+
+Whether it's spotting fake news, confirming facts, analysing sentiment or frequency of tweets by topic, the possibilities are endless. 
 
 To get you started we have the most recent 1,000 tweets from every UK politician who operates a Twitter account [(available here)](https://drive.google.com/open?id=1Zh4TpqnDnU9gza6XVlAi4t1G7oYu6J5e), but there are a number of directions you might choose to take.
 
@@ -48,6 +50,7 @@ See here for a full list of [Twitter API calls](https://developer.twitter.com/en
 ## Ideas to get you started
 - - -
 #### Perform analysis on the existing data set
+- Is there any way we can validate the truthfulness of objective statements made in tweets.
 - Sentiment analysis of tweets by party/topic/constituency using [NLP libraries](https://elitedatascience.com/python-nlp-libraries)
 - Frequency of tweets by topic or key words (over time)
 - Network analysis - who retweets who and what can it tell us?
