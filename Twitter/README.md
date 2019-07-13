@@ -9,7 +9,7 @@
 - - -
 With over 500 members of parliament on Twitter it's a valuable source of direct data from the countries representatives. The goal of this challenge is to harness this information, developing new insights using data available through Twitter's API. 
 
-To get you started we have the most recent 1,000 tweets from every UK politician who operates a Twitter account[(available here)](https://drive.google.com/open?id=1Zh4TpqnDnU9gza6XVlAi4t1G7oYu6J5e), but there are a number of directions you might choose to take.
+To get you started we have the most recent 1,000 tweets from every UK politician who operates a Twitter account [(available here)](https://drive.google.com/open?id=1Zh4TpqnDnU9gza6XVlAi4t1G7oYu6J5e), but there are a number of directions you might choose to take.
 
 
 Some establish political twitter projects include:
@@ -31,8 +31,8 @@ In the 'Using Twitter API to build a dataset notebook' you will find the code fo
 - Location (if available)
 - Hashtags
 - Source device
-- Tweet text
-- Retweet text (if retweet, also includes retweeted screen name)
+- Tweet text 
+- Retweet text (if retweet, contains full text - 'tweet text' is truncated if retweet and over 140 characters)
 - Quote text (if quote)
 - Quote screen name
 - Status count (number of tweets to date)
