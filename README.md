@@ -1,5 +1,5 @@
 <div>
-    <img src="docs/newspeak_logo.png" alt="Newspeak House" width="250px" style="float: left;" />
+    <img src="media/newspeak_logo.png" alt="Newspeak House" width="250px" style="float: left;" />
     &nbsp;&nbsp;
     <img src="https://pydata.org/london2018/static/images/logo.288981a8dfa8.png" alt="PyData London 2019" width="150px"  style="float: left;">
 </div>
@@ -25,9 +25,9 @@ In this hackathon, hosted by [Newspeak House](https://www.nwspk.com/), we presen
 - **Machine learning competition.** There will be a Kaggle-style machine learning competition for predicting the turnout of UK general elections. [SixFifty](https://sixfifty.org.uk) has been working hard to source and produce model-ready datasets for solving this problem. All that remains is for someone to solve it!
 - **Voter engagement.** For the hack most likely to get more people to turnout.
 - **Open data for democracy.** Help improve discoverability and accessibility of open datasets and streamline getting them from raw to model-ready by contributing to [Maven](https://pypi.org/project/maven/). Maven aims to reduce the time data scientists spend on data cleaning and preparation by providing easy access to open datasets in both raw and processed formats.
-- **Painless Parsing of Political PDFs.** A huge amount of civic data is published as tables trapped in PDF prisons. Work towards liberating this information and set it free!
+- **Painless parsing of political PDFs.** A huge amount of civic data is published as tables trapped in PDF prisons. Work towards liberating this information and set it free!
 - **Fact checking & fake news.** It's becoming harder to distinguish legitimate news from demonstrably false news, and with a few taps we can instantly share the stories we consume on our phones to our social networks. More news doesn't mean better news, and big tech companies are increasingly having to moderate and filter the content they host. How can we use the vast quantity of information at our fingertips to create tools or insights into improving the quality of the information we receive online?
-- **The Wildcard Prize.** The theme is democracy. The goal is a better world. You define how we get there. Should Parliament move to another city? What would be the perfect voting system? Perhaps we should back to the [wapentake](https://en.wikipedia.org/wiki/Hundred_(county_division%29#wapentake) or the [Thing](https://en.wikipedia.org/wiki/Thing_(assembly%29)? Should Parliament delegate constitutionally contentious issues to a citizens assembly? Should we replace all branches of Government with a Superintelligent AI?
+- **Wildcard prize.** The theme is democracy. The goal is a better world. You define how we get there. Should Parliament move to another city? What would be the perfect voting system? Perhaps we should back to the [wapentake](https://en.wikipedia.org/wiki/Hundred_(county_division%29#wapentake) or the [Thing](https://en.wikipedia.org/wiki/Thing_(assembly%29)? Should Parliament delegate constitutionally contentious issues to a citizens assembly? Should we replace all branches of Government with a Superintelligent AI?
 
 
 ## Datasets
